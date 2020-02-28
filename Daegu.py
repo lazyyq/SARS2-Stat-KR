@@ -113,7 +113,7 @@ class Daegu():
         self.seogu()
         self.suseonggu()
         self.junggu()
-        self.donggu()
+        #self.donggu()
         self.dalseonggun()
     
         stat = copy.copy(form)
